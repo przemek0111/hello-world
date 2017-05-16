@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello people!
+
+I'm Przemek and I like my work.
